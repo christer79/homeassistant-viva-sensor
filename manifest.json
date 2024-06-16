@@ -1,0 +1,10 @@
+{
+    "domain": "viva_sensor",
+    "name": "Viva Sensor",
+    "version": "1.0",
+    "documentation": "https://your-documentation-url",
+    "requirements": [],
+    "codeowners": [
+        "christer.j.eriksson@gmail.com"
+    ]
+}
